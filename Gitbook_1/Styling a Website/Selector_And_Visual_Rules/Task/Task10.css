@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+.headline {
+  color: firebrick;
+}
+.cursive{
+  font-family: cursive;
+}
+.capitalize{
+  text-transform: capitalize;
+}
